@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab4\lab4\obj\Debug\net5.0\lab4.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab4\lab4\obj\Debug\net5.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab4\lab4\obj\Debug\net5.0\lab4.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab4\lab4\obj\Debug\net5.0\lab4.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab4\lab4\obj\Debug\net5.0\lab4.csproj.CoreCompileInputs.cache
